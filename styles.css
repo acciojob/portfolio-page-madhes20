@@ -1,2 +1,11 @@
-
-/* Your CSS Code here. */
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#name{
+    text-align: center;
+}
+a{
+    text-align: center;
+}
